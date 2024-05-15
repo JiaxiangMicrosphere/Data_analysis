@@ -26,7 +26,7 @@ fdrive = 35. #31.
 make_plot = True
 
 data_columns = [0, 0] # column to calculate the correlation against
-drive_column = 8 
+drive_column = 3 
    
 def get_data(fname):
     ### Get bead data from a file.  Guesses whether it's a text file
